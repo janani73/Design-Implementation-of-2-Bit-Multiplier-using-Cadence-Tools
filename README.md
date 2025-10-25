@@ -47,18 +47,21 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ![Screenshot 2025-05-10 160454](https://github.com/user-attachments/assets/7a700f59-c4b4-4006-b791-0a4edf7d1e57)
 
-![Screenshot 2025-05-10 160505](https://github.com/user-attachments/assets/4031c7a7-7c0f-4397-a936-ac4f90c4f402)
+<img width="1920" height="1080" alt="Screenshot 2025-10-25 153043" src="https://github.com/user-attachments/assets/a1aeb6b1-8ebe-4b18-b72c-9f57a86314c8" />
+
 
 ### Schematicand Symbol of 2-Input EX-OR Gate:
 
 ![Screenshot 2025-05-10 160515](https://github.com/user-attachments/assets/880ad1be-e8b3-4111-b2ea-2b2c7eb1fd14)
 
-![Screenshot 2025-05-10 160523](https://github.com/user-attachments/assets/4230854b-5f8e-43d0-9875-258b457660e3)
+<img width="1920" height="1080" alt="Screenshot 2025-10-25 152828" src="https://github.com/user-attachments/assets/45b9db64-bd54-4eaf-a9b4-af9a57342f2b" />
+
 
 ### Schematicand Symbol of Half Adder:
 ![Screenshot 2025-05-10 160535](https://github.com/user-attachments/assets/5d98f983-d6b7-42b9-8f16-17407b2010b2)
 
-![Screenshot 2025-05-10 161100](https://github.com/user-attachments/assets/bfaa7af0-6785-46e4-b434-87d677af5807)
+<img width="1920" height="1080" alt="Screenshot 2025-10-25 153010" src="https://github.com/user-attachments/assets/d3af4b0b-9c86-414b-9dd9-1bafc9651684" />
+
 
 ### Schematic of 2-Bit Multiplier:
 <img width="1920" height="1080" alt="Screenshot 2025-10-25 152310" src="https://github.com/user-attachments/assets/1b522fb1-7a4c-41e2-a9fd-53cc1fff3a55" />
